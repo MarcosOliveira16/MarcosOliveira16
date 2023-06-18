@@ -1,4 +1,4 @@
-### Bem vinda(o), eu sou o Marcos prazer 😄🤝
+### Bem vinda(o) minha/meu nobre, muito prazer 😄🤝
 
 - 📚 Cursando Análise e desenvolvimento de sistemas(FAPESQ/UEPB)
 - 🌱 Estudando Python, Java, JavaScript, HTML/CSS
