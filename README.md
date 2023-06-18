@@ -5,9 +5,10 @@
 - 👯 Ministrei mentorias informais de Python a colegas de cursos
 - 😄 Pronouns: ele/dele
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosOliveira16&hide=contribs,issues&show_icons=true&theme=moltack)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosOliveira16&layout=compact&theme=moltack)
+<div>
+  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=MarcosOliveira16&hide=contribs,issues&show_icons=true&theme=moltack">
+  <img width="43.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosOliveira16&layout=compact&theme=moltack">
+</div>
 
 ##
 
