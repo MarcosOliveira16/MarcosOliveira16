@@ -6,7 +6,7 @@
 
 <div>
   <img width="52%" src="https://github-readme-stats.vercel.app/api?username=MarcosOliveira16&hide=contribs,issues&show_icons=true&theme=moltack">
-  <img width="43.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosOliveira16&layout=compact&theme=moltack">
+  <img width="35.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosOliveira16&layout=compact&theme=moltack">
 </div>
 
 ##
