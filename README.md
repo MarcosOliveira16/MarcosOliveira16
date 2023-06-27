@@ -2,7 +2,7 @@
 
 - 📚 Cursando Análise e desenvolvimento de sistemas(FAPESQ/UEPB)
 - 🌱 Estudando Python, Java, JavaScript, TypeScript, HTML/CSS
-- 👯 Atividade p/comunidade: já ministrei mentorias de Python
+- 👯 Atividade p/comunidade: já ministrei mentorias de introdução a Python
 
 <div>
   <img width="52%" src="https://github-readme-stats.vercel.app/api?username=MarcosOliveira16&hide=contribs,issues&show_icons=true&theme=moltack">
