@@ -1,7 +1,7 @@
-### Bem vinda(o) minha/meu nobre, muito prazer 😄🤝
+### Bem vinda(o) e muito prazer 😄🤝
 
 - 📚 Cursando Análise e desenvolvimento de sistemas(FAPESQ/UEPB)
-- 🌱 Estudando Python, Java, JavaScript, TypeScript, HTML/CSS
+- 🌱 Estudando Python, Java, C++, WEB
 - 👯 Atividade p/comunidade: já ministrei mentorias de introdução a Python
 
 <div>
