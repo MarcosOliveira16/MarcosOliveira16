@@ -1,8 +1,8 @@
 ### Bem vinda(o) e muito prazer 😄🤝
 
 - 📚 Cursando Análise e desenvolvimento de sistemas(FAPESQ/UEPB)
-- 🌱 Estudando Python, Java, C++, WEB
-- 👯 Atividade p/comunidade: já ministrei mentorias de introdução a Python
+- 🌱 Estudando Python, Java, C++ e WEB
+- 👯 Atividade p/comunidade: já ministrei mentorias de introdução a Python, C++ e Java
 
 <div>
   <img width="52%" src="https://github-readme-stats.vercel.app/api?username=MarcosOliveira16&hide=contribs,issues&show_icons=true&theme=moltack">
