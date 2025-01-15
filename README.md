@@ -1,7 +1,7 @@
 ### Bem vinda(o) e muito prazer 😄🤝
 
 - 📚 Cursando Análise e desenvolvimento de sistemas(FAPESQ/UEPB)
-- 🌱 Estudando Python, Java, C++ e WEB
+- 🌱 Cientista de Dados pela Zandir 
 - 👯 Atividade p/comunidade: já ministrei mentorias de introdução a Python, C++ e Java
 
 <div>
