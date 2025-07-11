@@ -3,6 +3,8 @@
 - 📚 Cursando Análise e desenvolvimento de sistemas(FAPESQ/UEPB)
 - Minha experiência abrange desde a liderança de equipes em projetos acadêmicos até o planejamento de arquiteturas de ecossistemas de dados e o desenvolvimento de modelos preditivos em projetos de pesquisa científica.
 - 👯 Atividade p/comunidade: já ministrei mentorias de introdução a Python, C++ e Java
+
+
 Principais Competências:
  * Linguagens: Python (Avançado), SQL, Java, C++
  * Dados & Big Data: PySpark, Pandas, Matplotlib, Hadoop
