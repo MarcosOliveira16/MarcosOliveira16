@@ -1,7 +1,14 @@
 ### Bem vinda(o) e muito prazer 😄🤝
 
 - 📚 Cursando Análise e desenvolvimento de sistemas(FAPESQ/UEPB)
+- Minha experiência abrange desde a liderança de equipes em projetos acadêmicos até o planejamento de arquiteturas de ecossistemas de dados e o desenvolvimento de modelos preditivos em projetos de pesquisa científica.
 - 👯 Atividade p/comunidade: já ministrei mentorias de introdução a Python, C++ e Java
+Principais Competências:
+ * Linguagens: Python (Avançado), SQL, Java, C++
+ * Dados & Big Data: PySpark, Pandas, Matplotlib, Hadoop
+ * Cloud & Bancos de Dados: AWS, GCP, BigQuery, MySQL, MongoDB
+ * Visualização & BI: Power BI, Grafana
+ * Colaboração & Metodologias: Scrum, Jira, Confluence, Docker
 
 <div>
   <img width="52%" src="https://github-readme-stats.vercel.app/api?username=MarcosOliveira16&hide=contribs,issues&show_icons=true&theme=moltack">
