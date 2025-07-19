@@ -12,7 +12,7 @@
 Sou um estudante de **Análise e Desenvolvimento de Sistemas** e um entusiasta de dados apaixonado por transformar informações em soluções inteligentes. Minha jornada vai da liderança de equipes em projetos acadêmicos à arquitetura de ecossistemas de dados e ao desenvolvimento de modelos preditivos para pesquisa científica.
 
 - 🔭 Atualmente explorando projetos de Machine Learning e MLOps.
-- 멘 Apoiando a comunidade através de mentorias de introdução a Python, C++ e Java.
+- 멘 Apoiando a comunidade através de mentorias de introdução a Python e Java.
 - 📫 Como me encontrar: **marcosraffaeloficial@gmail.com**
 
 <br/>
@@ -30,6 +30,12 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
       <br>Python
     </td>
     <td align="center" width="96">
+      <a href="#-linguagens-de-programação">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
       <a href="#-dados--big-data">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="48" height="48" alt="Pandas" />
       </a>
@@ -42,6 +48,14 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
       <br>PySpark
     </td>
     <td align="center" width="96">
+      <a href="#-linguagens-de-programação">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="48" height="48" alt="SQL" />
+      </a>
+      <br>SQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
       <a href="#-cloud--bancos-de-dados">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
       </a>
@@ -52,32 +66,6 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="GCP" />
       </a>
       <br>GCP
-    </td>
-  <td align="center" width="96">
-      <a href="#-visualização--bi">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" width="48" height="48" alt="Power BI" />
-      </a>
-      <br>Power BI
-  </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#-linguagens-de-programação">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="#-linguagens-de-programação">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#-linguagens-de-programação">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="48" height="48" alt="SQL" />
-      </a>
-      <br>SQL
     </td>
     <td align="center" width="96">
       <a href="#-cloud--bancos-de-dados">
@@ -91,22 +79,8 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
       </a>
       <br>MongoDB
     </td>
-    <td align="center" width="96">
-      <a href="#-visualização--bi">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
   </tr>
 </table>
-
-<br/>
-
-## 🐍 Contribuições no GitHub
-
-Aqui está um gráfico das minhas contribuições. A cobrinha comeu todas elas!
-
-![Snake animation](https://github.com/MarcosOliveira16/.github/workflows/main.yml)
 
 <br/>
 
