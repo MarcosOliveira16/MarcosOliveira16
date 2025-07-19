@@ -53,12 +53,12 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
       </a>
       <br>GCP
     </td>
-    <td align="center" width="96">
+  <td align="center" width="96">
       <a href="#-visualização--bi">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" width="48" height="48" alt="Power BI" />
       </a>
       <br>Power BI
-    </td>
+  </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -106,7 +106,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
 Aqui está um gráfico das minhas contribuições. A cobrinha comeu todas elas!
 
-![Snake animation](https://github.com/MarcosOliveira16/MarcosOliveira16/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MarcosOliveira16/.github/workflows/main.yml)
 
 <br/>
 
