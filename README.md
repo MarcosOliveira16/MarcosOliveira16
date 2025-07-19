@@ -20,7 +20,7 @@
 Sou um estudante de **Análise e Desenvolvimento de Sistemas** e um entusiasta de dados apaixonado por transformar informações em soluções inteligentes. Minha jornada vai da liderança de equipes em projetos acadêmicos à arquitetura de ecossistemas de dados e ao estudo de modelos preditivos para pesquisa científica.
 
 - 🔭 Atualmente explorando projetos de Machine Learning e MLOps.
-- 멘 Apoiando a comunidade através de mentorias de introdução a Python, C++ e Java.
+- 멘 Apoiando a comunidade através de mentorias de introdução a Python.
 - 📫 Como me encontrar: **marcosraffaeloficial@gmail.com**
 
 <br/>
@@ -64,16 +64,16 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="#-linguagens-de-programação">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      <a href="#-tech-stack--ferramentas">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       </a>
-      <br>C++
+      <br>Git
     </td>
     <td align="center" width="96">
-      <a href="#-linguagens-de-programação">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="48" height="48" alt="Java" />
+      <a href="#-tech-stack--ferramentas">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" width="48" height="48" alt="Confluence" />
       </a>
-      <br>Java
+      <br>Confluence
     </td>
     <td align="center" width="96">
       <a href="#-linguagens-de-programação">
