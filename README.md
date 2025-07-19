@@ -1,11 +1,19 @@
 # Olá, eu sou o Marcos Oliveira! 👋
 
-<a href="https://github.com/MarcosOliveira16">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosOliveira16&layout=compact&hide=jupyter%2Ctex%2Chtml&langs_count=6&theme=dracula&card_width=320" />
-</a>
-<a href="https://github.com/MarcosOliveira16">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosOliveira16&theme=dracula" />
-</a>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/MarcosOliveira16">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosOliveira16&layout=compact&hide=jupyter%2Ctex%2Chtml&langs_count=6&theme=dracula" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/MarcosOliveira16">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosOliveira16&theme=dracula" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -92,7 +100,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
 ## 🐍 Contribuições no GitHub
 
-![Snake animation](https://github.com/MarcosOliveira16/MarcosOliveira16/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MarcosOliveira16/MarcosOliveira16/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
 
 <br/>
 
