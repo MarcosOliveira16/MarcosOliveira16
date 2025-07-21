@@ -1,112 +1,93 @@
+
 # Olá, eu sou o Marcos Oliveira! 👋
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/MarcosOliveira16">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosOliveira16&layout=compact&hide=jupyter%2Ctex%2Chtml&langs_count=6&theme=dracula" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/MarcosOliveira16">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosOliveira16&theme=dracula" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/MarcosOliveira16">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosOliveira16&layout=compact&hide=jupyter%2Ctex%2Chtml&langs_count=6&theme=dracula" />
+  </a>
+  <a href="https://github.com/MarcosOliveira16">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosOliveira16&theme=dracula" />
+  </a>
+</p>
 
 <br/>
 
 Sou um estudante de **Análise e Desenvolvimento de Sistemas** e um entusiasta de dados apaixonado por transformar informações em soluções inteligentes. Minha jornada vai da liderança de equipes em projetos acadêmicos à arquitetura de ecossistemas de dados e ao estudo de modelos preditivos para pesquisa científica.
 
 - 🔭 Atualmente explorando projetos de Machine Learning e MLOps.
-- 멘 Apoiando a comunidade através de mentorias de introdução a Python.
+- 🧑‍🏫 Apoiando a comunidade através de mentorias de introdução a Python.
 - 📫 Como me encontrar: **marcosraffaeloficial@gmail.com**
 
-<br/>
+---
 
-## 🛠️ Tech Stack & Ferramentas
+## 🚀 Tech Stack & Ferramentas
 
-Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
+### 🧪 Linguagens & Bibliotecas
 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#-linguagens-de-programação">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br>Python
     </td>
     <td align="center" width="96">
-      <a href="#-dados--big-data">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="48" height="48" alt="Pandas" />
-      </a>
-      <br>Pandas
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="48" height="48" alt="Pandas" /><br>Pandas
     </td>
     <td align="center" width="96">
-      <a href="#-dados--big-data">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="48" height="48" alt="PySpark" />
-      </a>
-      <br>PySpark
-    </td>
-    <td align="center" width="96">
-      <a href="#-cloud--bancos-de-dados">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
-      </a>
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <a href="#-cloud--bancos-de-dados">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="GCP" />
-      </a>
-      <br>GCP
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#-tech-stack--ferramentas">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#-tech-stack--ferramentas">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" width="48" height="48" alt="Confluence" />
-      </a>
-      <br>Confluence
-    </td>
-    <td align="center" width="96">
-      <a href="#-linguagens-de-programação">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="48" height="48" alt="SQL" />
-      </a>
-      <br>SQL
-    </td>
-    <td align="center" width="96">
-      <a href="#-cloud--bancos-de-dados">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#-cloud--bancos-de-dados">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="48" height="48" alt="PySpark" /><br>PySpark
     </td>
   </tr>
 </table>
 
-<br/>
+### ☁️ Cloud & Banco de Dados
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" /><br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="GCP" /><br>GCP
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" /><br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" /><br>MongoDB
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Ferramentas
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" width="48" height="48" alt="Confluence" /><br>Confluence
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="48" height="48" alt="SQL" /><br>SQL
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 🐍 Contribuições no GitHub
 
 ![Snake animation](https://github.com/MarcosOliveira16/MarcosOliveira16/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
 
-<br/>
+---
 
 ## 🔗 Conecte-se Comigo
 
-<p align="left">
-  <a href="mailto:marcosraffaeloficial@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/marcos-oliveira-77410424a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<p align="center">
+  <a href="mailto:marcosraffaeloficial@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/marcos-oliveira-77410424a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
