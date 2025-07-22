@@ -1,12 +1,16 @@
-
 # Olá, eu sou o Marcos Oliveira! 👋
 
 <p align="center">
   <a href="https://github.com/MarcosOliveira16">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosOliveira16&layout=compact&hide=jupyter%2Ctex%2Chtml&langs_count=6&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosOliveira16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/MarcosOliveira16">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosOliveira16&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosOliveira16&layout=compact&hide=jupyter%2Ctex%2Chtml&langs_count=6&theme=dracula" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/MarcosOliveira16">
+    <img src="https://streak-stats.demolab.com/?user=MarcosOliveira16&theme=dracula" />
   </a>
 </p>
 
