@@ -16,7 +16,7 @@
 
 <br/>
 
-Sou um estudante de **Análise e Desenvolvimento de Sistemas** e um entusiasta de dados apaixonado por transformar informações em soluções inteligentes. Minha jornada vai da liderança de equipes em projetos acadêmicos à arquitetura de ecossistemas de dados e ao estudo de modelos preditivos para pesquisa científica.
+Sou um estudante de **Ciências de Dados**, formado em **Análise e desenvolvimento de sistemas** e um entusiasta de dados apaixonado por transformar informações em soluções inteligentes. Minha jornada vai da liderança de equipes em projetos acadêmicos à arquitetura de ecossistemas de dados e ao estudo de modelos preditivos para pesquisa científica.
 
 - 🔭 Atualmente explorando projetos de Machine Learning e MLOps.
 - 🧑‍🏫 Apoiando a comunidade através de mentorias de introdução a Python.
